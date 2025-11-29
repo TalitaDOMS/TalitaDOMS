@@ -1,4 +1,6 @@
 ![Hello world! Welcome to my Github profile. I’m Talita DOMS - Data analyst and Python developer.](https://github.com/TalitaDOMS/TalitaDOMS/blob/041ad2a4b906f5474a34b8e4d97c45204883e668/header.png)
+
+![Divider with a mouse girl chewing the page](https://github.com/TalitaDOMS/TalitaDOMS/blob/5a8c1d5a10adb41d6e553352a92622f5ecfe32f3/divider.png)
 <table>
   <tr>
     <td valign="top" width="412px">
@@ -8,7 +10,7 @@
       <p>‣ Bachelors Degree in Digital Design from Pontifícia Universidade Católica de Campinas (PUC-Campinas)</p>
       <p><b>In progress:</b></p>
       <p>‣ (Starting on 2026) Postgraduate course in Data Science by Escola de Extensão da Unicamp (Extecamp)</p>
-      <h3>🐍 Python knowledge - Intermediate 🐍</h3>
+      <h3>🐍 Python - Intermediate 🐍</h3>
       <p><b>Overall:</b> Object-Oriented Programming (OOP), Error handling, Modules</p>
       <p><b>Back-end:</b> Django, Flask</p>
       <p><b>Data analysis:</b> Pandas, Numpy, Matplotlib (and Seaborn)</p>
@@ -22,7 +24,7 @@
       <p>‣ Bacharel em Digital Design pela Pontifícia Universidade Católica de Campinas (PUC-Campinas)</p>
       <p><b>Em progresso:</b></p>
       <p>‣ (Começando em 2026) Pós-graduação em Data Science pela Escola de Extensão da Unicamp (Extecamp)</p>
-      <h3>🐍 Conhecimento em Python - Intermediário 🐍</h3>
+      <h3>🐍 Python - Intermediário 🐍</h3>
       <p><b>Geral:</b> Programação orientada ao Objeto (POO), Tratamento de erros, Módulos</p>
       <p><b>Back-end:</b> Django, Flask</p>
       <p><b>Análise de dados:</b> Pandas, Numpy, Matplotlib (e Seaborn)</p>
