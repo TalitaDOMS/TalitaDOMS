@@ -31,4 +31,4 @@
     </td>
   </tr>
 </table>
-![Divider with a mouse girl chewing the page](https://github.com/TalitaDOMS/TalitaDOMS/blob/5a8c1d5a10adb41d6e553352a92622f5ecfe32f3/divider.png)
+![Divider with a mouse girl chewing the page](https://github.com/TalitaDOMS/TalitaDOMS/blob/5b6a048b790f295a384897669db2713d73b13aa3/divider.png)
