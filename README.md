@@ -1,6 +1,4 @@
 ![Hello world! Welcome to my Github profile. I’m Talita DOMS - Data analyst and Python developer.](https://github.com/TalitaDOMS/TalitaDOMS/blob/041ad2a4b906f5474a34b8e4d97c45204883e668/header.png)
-
-![Divider with a mouse girl chewing the page](https://github.com/TalitaDOMS/TalitaDOMS/blob/5a8c1d5a10adb41d6e553352a92622f5ecfe32f3/divider.png)
 <table>
   <tr>
     <td valign="top" width="412px">
@@ -33,3 +31,4 @@
     </td>
   </tr>
 </table>
+![Divider with a mouse girl chewing the page](https://github.com/TalitaDOMS/TalitaDOMS/blob/5a8c1d5a10adb41d6e553352a92622f5ecfe32f3/divider.png)
