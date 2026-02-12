@@ -8,7 +8,6 @@
       <p>‣ Bachelors Degree in Digital Design from Pontifícia Universidade Católica de Campinas (PUC-Campinas)</p>
       <p><b>In progress:</b></p>
       <p>‣ Associate's Degree in Software Analysis and Development from Faculdade de Tecnologia do Estado de São Paulo (FATEC)</p>
-      <p>‣ Postgraduate course in Data Analysis by Centro Universitário União das Américas Descomplica</p>
       <h3>🐍 Python - Intermediate 🐍</h3>
       <p><b>Overall:</b> Object-Oriented Programming (OOP), Error handling, Modules</p>
       <p><b>Back-end:</b> Django, Flask</p>
@@ -23,7 +22,6 @@
       <p>‣ Bacharel em Digital Design pela Pontifícia Universidade Católica de Campinas (PUC-Campinas)</p>
       <p><b>Em progresso:</b></p>
       <p>‣ Tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia do Estado de São Paulo (FATEC)</p>
-      <p>‣ Pós-graduação em Análise de dados pela Centro Universitário União das Américas Descomplica</p>
       <h3>🐍 Python - Intermediário 🐍</h3>
       <p><b>Geral:</b> Programação orientada ao Objeto (POO), Tratamento de erros, Módulos</p>
       <p><b>Back-end:</b> Django, Flask</p>
